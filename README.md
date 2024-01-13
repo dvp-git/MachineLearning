@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning - University at Buffal
+Machine Learning - University at Buffalo
